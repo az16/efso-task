@@ -1,0 +1,5 @@
+node_modules/
+screenshots/
+trips_with_routes.json
+.env
+.DS_Store

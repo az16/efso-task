@@ -1,0 +1,18 @@
+cff-version: 1.2.0
+message: "If you use this work, please cite it using the following information."
+authors:
+  - name: "Albin Zeqiri"
+    orcid: "https://orcid.org/0000-0001-6516-3810"
+  - name: "Michael Rietzler"
+  - name: "Enrico Rukzio"
+title: "Investigating the Effects of Eco-Friendly Service Options on Rebound Behavior
+in Ride-Hailing"
+date-released: "2026-01"
+version: "1.0"
+publisher: "Association for Computing Machinery"
+booktitle: "Proceedings of the 2026 CHI Conference on Human Factors in Computing Systems"
+location: "Yokohama, Japan"
+series: "CHI '26"
+doi: "10.1145/3772318.3790711"
+isbn: "979-8-4007-2278-3/2026/04"
+url: "https://doi.org/10.1145/3772318.3790711"
